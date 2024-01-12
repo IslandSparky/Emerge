@@ -1,4 +1,4 @@
-//Stars  Program of dynamic art like a screen saver. Colors emerge from center of screen and do random walk
+//Emerge  Program of dynamic art like a screen saver. Colors emerge from center of screen and do random walk
 /*MIT License
 Copyright (c) 2023 Darwin Geiselbrecht
 Permission is hereby granted, free of charge, to any person obtaining a copy
